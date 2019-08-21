@@ -12,7 +12,7 @@
 
 * Google Maps is used to show the user a map of the Philadelphia area.
 
-![BELP](https://github.com/pamelatholan/BELP/blob/master/public/images/BELP.PNG)
+![BELP](https://github.com/pamelatholan/BELP/blob/master/public/images/view.PNG)
 
 Link to deployed page: [Heroku](https://quiet-cove-42633.herokuapp.com/)
 
