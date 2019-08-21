@@ -1,6 +1,8 @@
 # BELP Happy Hour Finder
 ## Let BELP help you discover your best Happy Hour
 
+![BELP](https://github.com/pamelatholan/BELP/blob/master/public/images/BELP.PNG)
+
 * BELP allows users to view and add happy hours to a database.  All happy hours show:
     * Bar name
     * HH start
